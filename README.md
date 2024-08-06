@@ -14,8 +14,8 @@ This is a small microservice project designed to demonstrate the use of FastAPI 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Nurshot/ocr-pdf-microservis-demo.git
-   cd ocr-pdf-microservis-demo
+   git clone https://github.com/Nurshot/ocr-pdf-microservice-demo.git
+   cd ocr-pdf-microservice-demo
 2. Start the services using Docker Compose:
    ```bash
    docker-compose up
