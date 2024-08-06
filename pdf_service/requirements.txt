@@ -1,0 +1,4 @@
+pika
+ocrmypdf
+python-dotenv
+watchdog
